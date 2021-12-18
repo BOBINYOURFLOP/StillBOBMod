@@ -1,2 +1,1 @@
-# StillBOBMod
-ez
+console.log("123")
